@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://better-i18n.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://better-i18n.com/logo-dark.svg">
-      <img src="https://better-i18n.com/logo.svg" alt="Better i18n" width="280">
-    </picture>
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://better-i18n.com/brand/logo-dark.svg">
+   <img src="https://better-i18n.com/brand/logo-light.svg" alt="Better i18n" width="240">
+ </picture>
   </a>
 </p>
 
